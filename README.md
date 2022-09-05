@@ -1,6 +1,6 @@
 # Reproducing a bug in Benthos when using NATS JetStream output
 
-[**GitHub issue**](TBA)
+[**GitHub issue**](https://github.com/benthosdev/benthos/issues/1433)
 
 ## Reproduction steps
 
