@@ -1,4 +1,4 @@
-# Reproducing a bug in Benthos when using nats jetstream
+# Reproducing a bug in Benthos when using NATS JetStream output
 
 [**GitHub issue**](TBA)
 
